@@ -1,10 +1,10 @@
-import StateMgm from '../04-StateMgmwthCond & useEffect/StateMgm.jsx'
+import FirstComp from '../05-TernaryOp/FirstComp.jsx'
 
 function App()
 {
     return (
         <>
-            <StateMgm />
+            <FirstComp />
         </>
     )
 }

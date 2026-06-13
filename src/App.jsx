@@ -1,10 +1,10 @@
-import FirstComp from '../05-TernaryOp/FirstComp.jsx'
+import ClickEvent from '../06-Events/EventClick'
 
 function App()
 {
     return (
         <>
-            <FirstComp />
+            <ClickEvent />
         </>
     )
 }
